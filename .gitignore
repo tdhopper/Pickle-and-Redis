@@ -1,2 +1,4 @@
 pickle_*
 *.pkl
+
+*.orig
